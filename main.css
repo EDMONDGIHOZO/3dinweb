@@ -4,6 +4,17 @@ body {
 	box-sizing: border-box;
 }
 
+.name {
+	position: absolute;
+	top: 10px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+	font-size: 60px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 
 canvas{
 	width:100%;
